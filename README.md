@@ -1,3 +1,4 @@
+![HR_Analytics-Dashboard](https://github.com/abehashahab/HR-Analytics-Dashboard/assets/18510258/ce7a290b-c329-4977-a530-6b8b7048aa42)
 **Project Overview: HR Analytics Dashboard for Improving Employee Performance and Retention**
 
 The objective of this project is to develop an HR Analytics Dashboard that empowers the organization to enhance employee performance and mitigate attrition, thus boosting employee retention. By analyzing crucial data points related to employee demographics, education background, and departmental distribution, the dashboard aims to provide actionable insights to inform strategic decisions for talent management.
